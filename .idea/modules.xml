@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/vlc-demo.iml" filepath="$PROJECT_DIR$/.idea/modules/vlc-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/vlc-demo.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/vlc-demo.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/vlc-demo.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/vlc-demo.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/vlc-demo.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/vlc-demo.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/vlc-demo.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/vlc-demo.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/library/vlc-demo.library.iml" filepath="$PROJECT_DIR$/.idea/modules/library/vlc-demo.library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/library/vlc-demo.library.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/library/vlc-demo.library.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/library/vlc-demo.library.main.iml" filepath="$PROJECT_DIR$/.idea/modules/library/vlc-demo.library.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/library/vlc-demo.library.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/library/vlc-demo.library.unitTest.iml" />
+    </modules>
+  </component>
+</project>
